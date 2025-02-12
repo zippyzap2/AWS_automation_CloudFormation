@@ -425,15 +425,8 @@ This CloudFormation template **automates deployment** of a scalable, secure, and
 
 ---
 
-## Next Steps
 
-- **Enhance Security:** Use AWS Config and Security Hub for continNo ous security monitoring.
-- **Use Route 53:** Set up a custom domain name.
-- **Integrate CI/CD:** Use AWS CodePipeline for automation to improve deployment efficiency.
-
----
-
-### Author: DevOps Engineer
+### Author: Cloud DevOps Engineer
 
 #### License: MIT
 
